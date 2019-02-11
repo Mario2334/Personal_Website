@@ -36,7 +36,7 @@ $("#contact input, #contact textarea").on('focusout', function(){
 
 });
 window.onload = function () {
-    var title = ["This is sanket Mokashi","Software Developer"];
+    var title = ["Sanket Mokashi","Software Developer"];
 var subtitle = ["Hipster" , "Hacker" , "Hustler"];
 var options = {
   strings: title,
